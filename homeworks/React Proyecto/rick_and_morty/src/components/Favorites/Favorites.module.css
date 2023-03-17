@@ -1,0 +1,24 @@
+.caja{
+    margin-top: 10px;
+}
+.buttons{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    
+}
+.Distribucion{
+    width: 1fr;
+    padding: 5px;
+    font-size: 0.82em;
+    font-family: 'Press Start 2P';
+    border-radius: 3px;
+}
+.Genero{
+    width: 1fr;
+    padding: 5px;
+    font-size: 0.82em;
+    font-family: 'Press Start 2P';
+    border-radius: 3px;
+
+}

@@ -1,0 +1,10 @@
+.caja{
+    display: flex;
+    justify-content: center;
+    margin: 5% auto ;
+    flex-direction: column;
+    background-color: cyan;
+    padding: 40px;
+    
+    
+}
